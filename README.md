@@ -1,2 +1,2 @@
-# OpenExostim
+# OpenExoStim
 Open Source Electrical Stimulator
