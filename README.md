@@ -9,6 +9,10 @@ Open Source Electrical Stimulator
 
 ![Block-Diagram](https://github.com/RehabExo/OpenExoStim/blob/main/BlockDiagram.png)
 
+
+### OPENING:
+We are looking for engineering interns to help develop the stimulator. <br/>  
+  
 ### CONTACT:
 Dr. Monzurul Alam <br/>
 Website: www.rehabexo.com <br/>
