@@ -13,6 +13,6 @@ Open Source Electrical Stimulator
 We are looking for engineering interns to help in the development of the stimulator. <br/>  
   
 ### CONTACT:
-Dr. Monzurul Alam <br/>
+RehabExo Pty Ltd <br/>
 Website: www.rehabexo.com <br/>
 Email: contact@rehabexo.com <br/>
