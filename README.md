@@ -10,8 +10,8 @@ Open Source Electrical Stimulator
 ![Block-Diagram](https://github.com/RehabExo/OpenExoStim/blob/main/BlockDiagram.png)
 
 ### LICENSE:
-The project files are shared under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. <br/>
-<img src="https://github.com/RehabExo/OpenExoStim/blob/main/by-nc-sa.png"><br/>
+The project files are shared under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. <br/><br/>
+<img src="https://github.com/RehabExo/OpenExoStim/blob/main/by-nc-sa.png" width="135" height="47"><br/>
 
 ### CONTACT:
 If you are interested to contribute to the project, please contact: <br/>  
