@@ -11,10 +11,10 @@ Open Source Electrical Stimulator
 
 ### LICENSE:
 The project files are shared under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. <br/>
-<img src="https://github.com/RehabExo/OpenExoAmp/blob/main/by-nc-sa.png"><br/>
+<img src="https://github.com/RehabExo/OpenExoStim/blob/main/by-nc-sa.png"><br/>
 
 ### CONTACT:
 If you are interested to contribute to the project, please contact: <br/>  
-<img src="https://github.com/RehabExo/OpenExoAmp/blob/main/RehabExo_web.jpeg" width="210" height="70"> <br/>  
+<img src="https://github.com/RehabExo/OpenExoStim/blob/main/RehabExo_web.jpeg" width="210" height="70"> <br/>  
 www.rehabexo.com <br/>
 contact@rehabexo.com <br/>
