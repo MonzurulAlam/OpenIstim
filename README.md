@@ -1,5 +1,5 @@
 # OpenExoStim
-Transcutaneous Electrical Stimulator
+Open Source Transcutaneous Current Stimulator
 
 ### OBJECTIVES:
 <P align="justify"> The objective of this project is to develop a miniature transcutaneous electrical stimulator for non-invasive muscle and nerve stimulation.
