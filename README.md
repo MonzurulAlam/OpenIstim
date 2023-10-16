@@ -9,12 +9,15 @@ Open Source Transcutaneous Current Stimulator
 
 ![Block-Diagram](https://github.com/RehabExo/OpenExoStim/blob/main/BlockDiagram.png)
 
-### LICENSE:
-The project files are shared under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please read the License Agreement for details. <br/><br/>
-<img src="https://github.com/RehabExo/OpenExoStim/blob/main/by-nc-sa.png" width="135" height="47"><br/>
 
-### CONTACT:
-If you are interested to contribute to the project, please contact: <br/>  
-<img src="https://github.com/RehabExo/OpenExoStim/blob/main/RehabExo_web.jpeg" width="210" height="70"> <br/>  
-www.rehabexo.com <br/>
-contact@rehabexo.com <br/>
+### DISCLAIMER:
+<P align="justify"> The design is offered as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, I do not provide any warranty in any aspect.
+
+### WARNING:
+- The design is intended stricktly for research and education purposes.
+- The stimulator is not approved for human or animal use without receving prior approval from a local ethics committee such as Institutional Review Board.
+- The stimulator can generate high voltage and under no circumstances it should be placed across the chest or close to the heart.
+- The stimulator should never be powered from external adapter, USB or power source while being used or connected to the body.
+
+### LICENSE:
+##### Documentation licensed under the Creative Commons Attribution Share Alike 4.0 International License
