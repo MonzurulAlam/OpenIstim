@@ -1,5 +1,9 @@
-# OpenExoStim
-Open Source Transcutaneous Current Stimulator
+# <P align="center"> OpenIstim - Open Source Transcutaneous Current Stimulator 
+ 
+### DEVELOPED BY:
+Dr Monzurul Alam <br/>
+Profile: https://scholar.google.com.au/citations?user=a2yhqEQAAAAJ&hl=en&oi=ao <br/>
+Contact: md.malam@connect.polyu.hk <br/>
 
 ### OBJECTIVES:
 <P align="justify"> The objective of this project is to develop a miniature transcutaneous electrical stimulator for non-invasive muscle and nerve stimulation.
