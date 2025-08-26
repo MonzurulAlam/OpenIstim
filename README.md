@@ -1,4 +1,4 @@
-# <P align="center"> OpenIstim - Open Source Transcutaneous Current Stimulator 
+# <P align="center"> OpenXstim - Open Source Transcutaneous Current Stimulator 
  
 ### DEVELOPED BY:
 Dr Monzurul Alam <br/>
