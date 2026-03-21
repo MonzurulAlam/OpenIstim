@@ -1,8 +1,14 @@
-
 /***********************************************************************
-// 16 June 2023, Australia
-// Example code for setting up stimulation current for OpenXatim2 v1.0
-// For queries please email Dr Monzurul Alam at md.malam@connect.polyu.hk
+16 June 2023, Australia
+Example code for setting up stimulation current for OpenXatim2 v1.0
+For queries please email Dr Monzurul Alam at md.malam@connect.polyu.hk
+The example code uses following open-source libraries:
+ - Wire (Arduino core): https://www.arduino.cc/
+ - Adafruit GFX Library: https://github.com/adafruit/Adafruit-GFX-Library
+ - Adafruit SSD1306 Library: https://github.com/adafruit/Adafruit_SSD1306
+ - AD57 Library: https://github.com/paulvha/AD57xx
+Many thanks to the original authors and contributors for making
+these libraries freely available to the community.
 ***********************************************************************/
 
 #include <Wire.h>
